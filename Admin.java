@@ -1,4 +1,4 @@
- package com.tns.controller;
+package com.tns.controller;
 /* Created by APARNA RAYAPROLU
       *21-11-23
       */
